@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Bea! Studying a variety of programing languages.<br>At the moment working at Bosch as a Digital Talent Academy studant.
+Hello, I'm Bea! Studying a variety of programing languages.<br>At the moment, working at Bosch as a Digital Talent Academy studant.
 
 
 ## 🌐 Socials:
