@@ -32,10 +32,8 @@ I enjoy building applications with a strong focus on **user experience**, creati
 
 ### Personal Projects
 
+- 🍕 **Pizza Management System (BoschPizza)** – Built a full-stack pizza management application using **Angular** and **C#**, featuring user registration, login, role-based authentication (Admin & User), JWT authentication, REST API integration, and a custom SQL database designed and implemented by me.
 - 📚 **Ajuda.me** – Designed and developed the front end of a creative online bookstore focused on **self-help, philosophy, and psychology books**. I created a unique visual identity centered on delivering an engaging, intuitive, and user-friendly experience.
-
-- 🍕 **Pizza Management System** – Built a full-stack pizza management application using **Angular** and **C#**, featuring user registration, login, role-based authentication (Admin & User), JWT authentication, REST API integration, and a custom SQL database designed and implemented by me.
-
 - 🦆 **Pato vs. Torrada** – Designed and developed a 2D game from concept to completion using **Python** and **Pygame**. I was responsible for the entire project, including the original idea, gameplay mechanics, programming, art, user interface, and overall game design.
 
 ### Professional Project
