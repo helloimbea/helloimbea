@@ -1,16 +1,55 @@
-# 💫 About Me:
-Hello, I'm Bea! Studying a variety of programming languages.<br>At the moment, working at Bosch as a Digital Talent Academy student.
+# Hello, I'm Bea! 👋
+
+I'm an **Analysis and Systems Development** student currently focused on **full-stack web development**, working with **HTML, CSS, JavaScript, Angular, and REST APIs**.
+
+I enjoy building applications with a strong focus on **user experience**, creating interfaces that are intuitive, accessible, and user-friendly. I'm a creative person who enjoys turning ideas into practical solutions and exploring new technologies through hands-on projects.
+
+## 🛠️ Tech Stack
+
+### Languages & Technologies
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌱 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![QA](https://img.shields.io/badge/Quality_Assurance-5C2D91?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beatrizhiemann@gmail.com) 
+## 📌 Featured Projects
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=helloimbea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=helloimbea&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=helloimbea&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Personal Projects
+
+- 📚 **Ajuda.me** – Designed and developed the front end of a creative online bookstore focused on **self-help, philosophy, and psychology books**. I created a unique visual identity centered on delivering an engaging, intuitive, and user-friendly experience.
+
+- 🍕 **Pizza Management System** – Built a full-stack pizza management application using **Angular** and **C#**, featuring user registration, login, role-based authentication (Admin & User), JWT authentication, REST API integration, and a custom SQL database designed and implemented by me.
+
+- 🦆 **Pato vs. Torrada** – Designed and developed a 2D game from concept to completion using **Python** and **Pygame**. I was responsible for the entire project, including the original idea, gameplay mechanics, programming, art, user interface, and overall game design.
+
+### Professional Project
+
+- 📄 **HR Workflow Automation** – Developed automated HR workflows using **n8n**, including dynamic forms, email notifications, PDF generation, and REST API integrations.
+
+- 🌐 **Dynamic Web Forms** – Created responsive forms with validation, API integrations, and interactive user interfaces.
+
+- ⚡ **REST API Integrations** – Built and integrated REST APIs for authentication, data processing, and workflow automation.
+
+
+## 📫 Connect with me
+- LinkedIn: [LinkedIn profile](https://linkedin.com/in/Beatriz-heimann-gesser)
+- Email: beatrizheimann@gmail.com
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
