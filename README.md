@@ -26,6 +26,7 @@ I enjoy building applications with a strong focus on **user experience**, creati
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![QA](https://img.shields.io/badge/Quality_Assurance-5C2D91?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge)
 
 
 ## 📌 Featured Projects
