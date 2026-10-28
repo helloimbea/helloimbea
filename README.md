@@ -49,33 +49,33 @@ Before code, there was art: I'm also a **digital artist** 🎨 (Procreate, Procr
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B00?style=for-the-badge)
 
 
-## 📌 Featured Projects
-
-### Professional Work
-
-- 📄 **HR Workflow Automation** – Automated HR workflows with **n8n**, including dynamic forms, email notifications, PDF generation, and REST API integrations.
-
-- 🌐 **Dynamic Web Forms** – Responsive forms with validation, API integrations, and interactive user interfaces.
-
-- ⚡ **REST API Integrations** – Built and integrated REST APIs for authentication, data processing, and workflow automation.
-
-### Personal Projects
-
-- 🍕 **[Bosch Pizza](https://github.com/helloimbea/boschPizza)** – Full-stack pizza management system with an **Angular** front end consuming a **REST API**: user registration and login, **JWT** authentication, role-based access (Admin & User), customer management, a dashboard, and a SQL database I designed myself.
+## 🚧 Currently Working On
 
 - 📖 **[My Cozy Bookshelf](https://github.com/helloimbea/MyCozyBookshelf)** – A private, cozy bookshelf where each reader keeps the books they've read and the reflections each one left behind: a sentence that stuck, a feeling, something that changed after reading. Built with **TypeScript**.
 
-- 📚 **[Ajuda.me](https://github.com/helloimbea/ajudame)** – Front end of a creative online bookstore for **self-help, philosophy, and psychology** books, with a visual identity I created from scratch.
+- 🦆 **[Pato vs. Torrada](https://github.com/helloimbea/Pato-vs.-Torrada)** – A 2D clicker game made with **Python** and **Pygame**, born in the Apps and Games course at SESI. I do everything: concept, mechanics, code, art, UI, and game design.
 
-- 🦆 **[Pato vs. Torrada](https://github.com/helloimbea/Pato-vs.-Torrada)** – A 2D clicker game made with **Python** and **Pygame** for the Apps and Games course at SESI. I did everything: concept, mechanics, code, art, UI, and game design.
+## 💼 Professional Work
+
+- 🎓 **Internship Program Form & Dashboard** – Developed the application form and the management dashboard for an internship program, from the candidate-facing form to the panel used to follow the applications.
+
+- 📄 **HR Workflow Automation** – Automated HR workflows with **n8n**, including dynamic forms, email notifications, PDF generation, and REST API integrations.
+
+## 📚 Study Projects
+
+Projects built while studying at **DTA – Bosch**:
+
+- 🍕 **[Bosch Pizza](https://github.com/helloimbea/boschPizza)** – Full-stack pizza management system with an **Angular** front end consuming a **REST API**: user registration and login, **JWT** authentication, role-based access (Admin & User), customer management, a dashboard, and a SQL database I designed myself.
+
+- 📚 **[Ajuda.me](https://github.com/helloimbea/ajudame)** – Front end of a creative online bookstore for **self-help, philosophy, and psychology** books, with a visual identity I created from scratch.
 
 - 🧠 **[Clinical Psychologist Website](https://github.com/helloimbea/site-psicologa-clinica)** – A welcoming landing page for a clinical psychology practice.
 
-### Academic & Course Projects
-
-- 📊 **[PI – Data Science](https://github.com/helloimbea/PI-ciencia-de-dados)** – Integrator Project for the Analysis and Systems Development program at SENAC, using **Python** and **Jupyter Notebooks**.
-
 - 📮 **[BuscaCEP](https://github.com/helloimbea/API-cep)** – Angular app that looks up Brazilian postal codes through a public API, built with Ana Julya.
+
+And from my degree at **SENAC**:
+
+- 📊 **[PI – Data Science](https://github.com/helloimbea/PI-ciencia-de-dados)** – Integrator Project for the Analysis and Systems Development program, using **Python** and **Jupyter Notebooks**.
 
 
 ## 📫 Connect with me
