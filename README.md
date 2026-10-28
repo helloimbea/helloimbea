@@ -32,6 +32,7 @@ Before code, there was art: I'm also a **digital artist** 🎨, and that's where
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌱 Currently Learning
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![QA](https://img.shields.io/badge/Quality_Assurance-5C2D91?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -58,11 +59,11 @@ Projects built while studying at **DTA – Bosch**:
 
 - 📚 **[Ajuda.me](https://github.com/helloimbea/ajudame)** – Front end of a creative online bookstore for **self-help, philosophy, and psychology** books, with a visual identity I created from scratch.
 
-- 🧠 **[Clinical Psychologist Website](https://github.com/helloimbea/site-psicologa-clinica)** – A welcoming landing page for a clinical psychology practice.
-
 - 📮 **[BuscaCEP](https://github.com/helloimbea/API-cep)** – Angular app that looks up Brazilian postal codes through a public API.
 
 And from my degree at **SENAC**:
+
+- 🧠 **[Clinical Psychologist Website](https://github.com/helloimbea/site-psicologa-clinica)** – A welcoming landing page for a clinical psychology practice.
 
 - 📊 **[PI – Data Science](https://github.com/helloimbea/PI-ciencia-de-dados)** – Integrator Project for the Analysis and Systems Development program, using **Python** and **Jupyter Notebooks**.
 
