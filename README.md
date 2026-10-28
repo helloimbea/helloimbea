@@ -8,11 +8,6 @@ My main focus is **web development** with **Java + Spring Boot** on the back end
 
 Before code, there was art: I'm also a **digital artist** 🎨 (Procreate, Procreate Dreams, Krita, Clip Studio), and that's where my love for **UI/UX** comes from. I like building interfaces that are intuitive, accessible, and a little cozy, and I enjoy owning projects end to end, from the idea and the visual identity to the code.
 
-- 🎓 Analysis and Systems Development @ **SENAC** · IoT technical course @ **SENAI** · STEAM high school @ **SESI**
-- 🏆 Winner of the **Grand Prix Escola S × Ágora × BMW** (2022)
-- 🤖 Background in robotics, digital media, and 3D printing
-- 📚 Into books on self-help, philosophy, and psychology (you'll notice it in my projects)
-
 ## 🎯 Focus
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -58,7 +53,7 @@ Before code, there was art: I'm also a **digital artist** 🎨 (Procreate, Procr
 
 ## 💼 Professional Work
 
-- 🎓 **Internship Program Form & Dashboard** – Developed the application form and the management dashboard for an internship program, from the candidate-facing form to the panel used to follow the applications.
+- 🎓 **Internship Program Form & Dashboard** – Developed the application form and the management dashboard for the Bosch Brasil internship program, from the candidate-facing form to the panel used to follow the applications.
 
 - 📄 **HR Workflow Automation** – Automated HR workflows with **n8n**, including dynamic forms, email notifications, PDF generation, and REST API integrations.
 
@@ -70,7 +65,7 @@ Projects built while studying at **DTA – Bosch**:
 
 - 📚 **[Ajuda.me](https://github.com/helloimbea/ajudame)** – Front end of a creative online bookstore for **self-help, philosophy, and psychology** books, with a visual identity I created from scratch.
 
-- 📮 **[BuscaCEP](https://github.com/helloimbea/API-cep)** – Angular app that looks up Brazilian postal codes through a public API, built with Ana Julya.
+- 📮 **[BuscaCEP](https://github.com/helloimbea/API-cep)** – Angular app that looks up Brazilian postal codes through a public API.
 
 And from my degree at **SENAC**:
 
