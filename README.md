@@ -6,7 +6,7 @@ I'm **Beatriz Heimann Gesser**, a developer from **Santa Catarina, Brazil** 🇧
 
 My main focus is **web development** with **Java + Spring Boot** on the back end and **React** and **Angular** on the front end, plus **workflow automation with n8n**.
 
-Before code, there was art: I'm also a **digital artist** 🎨 (Procreate, Procreate Dreams, Krita, Clip Studio), and that's where my love for **UI/UX** comes from. I like building interfaces that are intuitive, accessible, and a little cozy, and I enjoy owning projects end to end, from the idea and the visual identity to the code.
+Before code, there was art: I'm also a **digital artist** 🎨, and that's where my love for **UI/UX** comes from. I like building interfaces that are intuitive, accessible, and a little cozy, and I enjoy owning projects end to end, from the idea and the visual identity to the code.
 
 ## 🎯 Focus
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,14 +28,8 @@ Before code, there was art: I'm also a **digital artist** 🎨 (Procreate, Procr
 
 ### Tools & APIs
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Design & Art
-![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Clip Studio](https://img.shields.io/badge/Clip_Studio_Paint-6E3FF3?style=for-the-badge)
 
 ### 🌱 Currently Learning
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
